@@ -1,3 +1,4 @@
+
 # Prime Spectrum Kernel
 
 Prime Spectrum Kernel is a nonlinear spectral analysis kernel designed to reveal high-density interference structures that conventional Fourier methods cannot detect. 
@@ -18,7 +19,7 @@ It represents a distinct analytical direction outside mainstream AI, built on ze
 
 The kernel generates high-order spectral interference patterns representing deep number-theoretic distributions:
 
-[ Output: prime_spectrum_output_2000_full.png ]
+<img width="3000" height="1200" alt="prime_spectrum_output" src="https://github.com/user-attachments/assets/2d246156-9ca4-4ee4-b1e0-db415351e470" />
 
 *(Visualization of 2000 zeros harmonics)*
 
